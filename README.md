@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexandra Adamovich</h1>
-<h3 align="center">A creative Python developer</h3>
+<h3 align="center">AQA</h3>
 <img align="right" alt ="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 - 🔭 I’m currently working on **my projects**
 
-- 🌱 I’m currently learning **Python, Flask**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **vilay397@gmail.com**
 
